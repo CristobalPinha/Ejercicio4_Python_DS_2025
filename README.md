@@ -1,1 +1,2 @@
-# Ejercicio4_Python_DS_2025
+# Ejercicios Resueltos
+# El 4 es la tarea
